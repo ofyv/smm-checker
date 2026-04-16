@@ -1,0 +1,10 @@
+{
+  "name": "smm-painel-checker",
+  "version": "1.0.0",
+  "description": "Checker de login SMM com um painel por execução",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "undici": "^8.0.2"
+  }
+}
